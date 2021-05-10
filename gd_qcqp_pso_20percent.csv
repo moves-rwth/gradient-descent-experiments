@@ -1,0 +1,381 @@
+Model,Const,Mem,Prop,#States (min),#Params (min),Add. Settings,Method,Time,Found
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum,4.475,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum,4.566,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum,4.162,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum,3.923,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum,4.165,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum-sign,4.154,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum-sign,3.88,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum-sign,4.047,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum-sign,3.99,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,	1540,1250,lr=0.1,momentum-sign,4.044,0.1317
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,pso,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,pso,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,pso,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,pso,ERR,ERR
+hailfinder_2000,N/A,1,0.116_probability__max_Dewpoints0,?,?,lr=0.1,pso,ERR,ERR
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum-sign,0.1,0.0
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum-sign,0.1,0.0
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum-sign,0.1,0.0
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum-sign,0.1,0.0
+nrp,K=16 ,2,0.0012_probability__min_unfair,	787,96,lr=0.1,momentum-sign,0.1,0.0
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,3.195,0.0008
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,3.1937,0.0008
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,3.194,0.0008
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,3.1955,0.0008
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,3.1937,0.0008
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,2,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum-sign,18.242,0.0004
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum-sign,28.484,0.0006
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum-sign,33.829,0.0
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum-sign,23.13,0.0001
+nrp,K=16 ,5,0.0012_probability__min_unfair,	5806,705,lr=0.1,momentum-sign,16.89,0.001
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,67.8506,0.0
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,67.8572,0.0
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,67.9182,0.0
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,67.8434,0.0
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,qcqp,67.7908,0.0
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+nrp,K=16 ,5,0.0012_probability__min_unfair,?,?,lr=0.1,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum,2.39,0.0096
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum,2.342,0.0096
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum,2.349,0.0096
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum,2.344,0.0096
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum,2.359,0.0096
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum-sign,0.805,0.105
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum-sign,0.796,0.105
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum-sign,0.794,0.105
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum-sign,0.796,0.105
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,	397,141,lr=0.1,momentum-sign,0.794,0.105
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,qcqp,1.0614,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,qcqp,1.0548,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,qcqp,1.0606,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,qcqp,1.0561,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,qcqp,1.0556,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.12_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum,1298.008,4.1979
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum,1114.873,4.1979
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum,1138.351,4.1979
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum,1158.967,4.1979
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum,1140.622,4.1979
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum-sign,87.364,4.1847
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum-sign,87.411,4.1847
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum-sign,87.625,4.1847
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum-sign,87.441,4.1847
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,	2822,889,lr=0.1,momentum-sign,87.638,4.1847
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,qcqp,41.7245,3.8588
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,qcqp,41.9652,3.8588
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,qcqp,42.295,3.8588
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,qcqp,49.202,3.8588
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,qcqp,49.2173,3.8588
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,4.2_reward__min_goal,?,?,lr=0.1,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum,280.423,0.6801
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum,280.924,0.6801
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum,280.351,0.6801
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum,280.307,0.6801
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum,281.004,0.6801
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum-sign,19.34,0.6903
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum-sign,19.281,0.6903
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum-sign,19.363,0.6903
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum-sign,19.151,0.6903
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1,momentum-sign,19.138,0.6903
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,219.1833,0.6808
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,219.8939,0.6808
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,219.1631,0.6808
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,175.0779,0.6808
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,174.9483,0.6808
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum,3823.558,0.68
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum,3761.771,0.68
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum,3824.462,0.68
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum,3825.657,0.68
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum,3836.025,0.68
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum-sign,91.494,0.6852
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum-sign,91.601,0.6852
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum-sign,91.773,0.6852
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum-sign,91.953,0.6852
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1,momentum-sign,91.702,0.6852
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,145.7106,0.6822
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,145.7031,0.6822
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,143.1703,0.6822
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,142.6592,0.6822
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,143.2424,0.6822
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.68_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum,0.452,0.7888
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum,0.476,0.7888
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum,0.467,0.7888
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum,0.477,0.7888
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum,0.475,0.7888
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum-sign,0.177,0.8507
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum-sign,0.177,0.8507
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum-sign,0.177,0.8507
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum-sign,0.177,0.8507
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,	1216,100,lr=0.1,momentum-sign,0.177,0.8507
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,qcqp,4.2988,0.7381
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,qcqp,4.2884,0.7381
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,qcqp,4.3342,0.7381
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,qcqp,4.2735,0.7381
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,qcqp,4.3174,0.7381
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,pso,2.5818,0.7926
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,pso,2.5814,0.7926
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,pso,2.6091,0.7926
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,pso,2.5962,0.7926
+4x4grid-avoid,N/A,5,0.72_probability__max_goal,?,?,lr=0.1,pso,2.592,0.7926
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum,9.856,0.7285
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum,14.241,0.7285
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum,14.224,0.7285
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum,9.59,0.7285
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum,10.635,0.7285
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum-sign,3.064,0.8492
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum-sign,3.089,0.8492
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum-sign,3.079,0.8492
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum-sign,3.08,0.8492
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,	4931,400,lr=0.1,momentum-sign,3.258,0.8492
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,qcqp,44.7228,0.7328
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,qcqp,44.9059,0.7328
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,qcqp,44.9163,0.7328
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,qcqp,44.8758,0.7328
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,qcqp,48.7764,0.7328
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,pso,12.279,0.7921
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,pso,12.7873,0.7921
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,pso,12.7216,0.7921
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,pso,12.7758,0.7921
+4x4grid-avoid,N/A,10,0.72_probability__max_goal,?,?,lr=0.1,pso,12.0816,0.7921
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum,0.318,4.3434
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum,0.284,4.7617
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum,0.279,4.7003
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum,0.296,5.0294
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum,0.241,4.9768
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum-sign,0.261,4.6669
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum-sign,0.261,4.6669
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum-sign,0.238,4.6669
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum-sign,0.238,4.6669
+4x4grid,N/A,5,5.04_reward__min_goal,	1410,100,lr=0.1,momentum-sign,0.238,4.6669
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,qcqp,15.8957,5.0377
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,qcqp,15.263,5.0377
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,qcqp,15.9553,5.0377
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,qcqp,15.8765,5.0377
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,qcqp,14.7215,5.0377
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,pso,13.7425,4.8024
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,pso,13.8341,4.8024
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,pso,13.8104,4.8024
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,pso,13.8468,4.8024
+4x4grid,N/A,5,5.04_reward__min_goal,?,?,lr=0.1,pso,13.8668,4.8024
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum,6.812,5.0384
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum,6.604,5.0384
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum,7.1,5.0384
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum,6.614,5.0384
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum,7.119,5.0384
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum-sign,4.43,4.5754
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum-sign,4.394,4.5754
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum-sign,4.383,4.5754
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum-sign,4.387,4.5754
+4x4grid,N/A,10,5.04_reward__min_goal,	5780,400,lr=0.1,momentum-sign,4.376,4.5754
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,qcqp,274.7425,5.039
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,qcqp,274.2361,5.039
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,qcqp,270.8736,5.039
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,qcqp,272.236,5.039
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,qcqp,272.3501,5.039
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,pso,144.9096,5.0393
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,pso,143.4112,5.0393
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,pso,142.4508,5.0393
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,pso,143.423,5.0393
+4x4grid,N/A,10,5.04_reward__min_goal,?,?,lr=0.1,pso,143.2025,5.0393
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum,216.007,0.8206
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum,216.085,0.8206
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum,218.888,0.8206
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum,218.844,0.8206
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum,218.55,0.8206
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum-sign,51.419,0.8058
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum-sign,51.419,0.8058
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum-sign,51.189,0.8058
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum-sign,51.315,0.8058
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1,momentum-sign,51.268,0.8058
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2127.9346,0.7957
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2137.0551,0.7957
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2138.5794,0.7957
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2118.5014,0.7957
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2111.4521,0.7957
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=8 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum,1976.817,0.8053
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum,1980.2,0.8053
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum,1972.813,0.8053
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum,2483.394,0.8053
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum,2438.004,0.8053
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+newgrid,N=15 ,10,"0.792_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,ERR,ERR
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum,217.407,0.516
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum,230.955,0.516
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum,230.977,0.516
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum,231.483,0.516
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum,231.719,0.516
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum-sign,2.835,0.5114
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum-sign,2.843,0.5114
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum-sign,2.824,0.5114
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum-sign,2.831,0.5114
+child_240,N/A,1,0.516_probability__min_CO2Report0,	243,224,lr=0.1,momentum-sign,2.813,0.5114
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,qcqp,1.3763,0.5113
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,qcqp,2.2808,0.5113
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,qcqp,2.2836,0.5113
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,qcqp,1.3652,0.5113
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,qcqp,1.367,0.5113
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,pso,N/A,N/A
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,pso,N/A,N/A
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,pso,N/A,N/A
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,pso,N/A,N/A
+child_240,N/A,1,0.516_probability__min_CO2Report0,?,?,lr=0.1,pso,N/A,N/A
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum,38.165,47.8833
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum,48.661,47.8833
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum,48.63,47.8833
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum,48.857,47.8833
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum,48.682,47.8833
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum-sign,203.32,47.9425
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum-sign,203.547,47.9425
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum-sign,203.18,47.9425
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum-sign,202.21,47.9425
+samplerocks,N=8 ,1,48_reward__min_goal,	11278,2845,lr=0.1,momentum-sign,202.396,47.9425
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,qcqp,54.3392,40.2239
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,qcqp,54.5297,40.2239
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,qcqp,54.7388,40.2239
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,qcqp,52.8342,40.2239
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,qcqp,52.9383,40.2239
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+samplerocks,N=8 ,1,48_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum,6862.308,0.28
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum,2396.644,0.28
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum,3867.106,0.2801
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum,4265.771,0.2801
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum,N/A,N/A
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum-sign,48.829,0.2862
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum-sign,48.441,0.2862
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum-sign,48.225,0.2862
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum-sign,47.584,0.2862
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1,momentum-sign,47.585,0.2862
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2336.577,0.3127
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2397.6267,0.3127
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2388.5641,0.3127
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,2992.4986,0.3066
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,3000.6896,0.3066
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=8 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum,304.67,0.28
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum,321.441,0.28
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum,309.946,0.28
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum,309.615,0.28
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum,308.279,0.28
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum-sign,5.003,0.296
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum-sign,5.002,0.296
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum-sign,5.026,0.296
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum-sign,5.012,0.296
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1,momentum-sign,3.866,0.296
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,88.8875,0.3095
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,106.2579,0.3095
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,106.2626,0.3095
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,106.1412,0.3095
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,qcqp,102.7348,0.3095
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+refuel,N=5 ,3,"0.28_probability__max_""notbad"" U ""goal""",?,?,lr=0.1,pso,N/A,N/A
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum,251.163,7.195
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum,282.924,7.195
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum,279.645,7.195
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum,280.326,7.195
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum,278.439,7.195
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum-sign,78.9,6.9626
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum-sign,76.979,6.9626
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum-sign,76.671,6.9626
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum-sign,87.645,6.9626
+maze2,N/A,15,7.2_reward__min_goal,	5340,2625,lr=0.1,momentum-sign,86.562,6.9626
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,qcqp,296.177,6.9589
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,qcqp,313.5449,6.9589
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,qcqp,317.2469,6.9589
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,qcqp,312.8743,6.9589
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,qcqp,311.7524,6.9589
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,15,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum-sign,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum-sign,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum-sign,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum-sign,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,	61000,29750,lr=0.1,momentum-sign,N/A,N/A
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,qcqp,1328.3806,7.1419
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,qcqp,1330.0186,7.1419
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,qcqp,1320.3773,7.1419
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,qcqp,1263.55,7.1419
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,qcqp,1304.0456,7.1419
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
+maze2,N/A,50,7.2_reward__min_goal,?,?,lr=0.1,pso,ERR,ERR
